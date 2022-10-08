@@ -1,0 +1,16 @@
+dist: trusty
+language: node_js
+node_js:
+  - "node"
+  - "16"
+  - "15"
+  - "14"
+  - "13"
+  - "12"
+  - "11"
+  - "10"
+install:
+  - npm install --save-dev gbatchrequests
+  - npm install --global gbatchrequests
+script:
+  - echo "npm test temporarily disabled"

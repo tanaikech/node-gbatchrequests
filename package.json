@@ -1,0 +1,25 @@
+{
+  "name": "gbatchrequests",
+  "version": "1.0.0",
+  "description": "This is a Node.js module to run the batch requests of Google APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanaikech/node-gbatchrequests.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "batch",
+    "requests"
+  ],
+  "author": "Tanaike Kanshi <tanaike@hotmail.com> (https://github.com/tanaikech)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanaikech/node-gbatchrequests/issues"
+  },
+  "homepage": "https://github.com/tanaikech/node-gbatchrequests#readme"
+}
